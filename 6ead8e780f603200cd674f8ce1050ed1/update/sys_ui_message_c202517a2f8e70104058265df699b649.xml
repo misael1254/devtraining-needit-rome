@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="INSERT_OR_UPDATE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>Application 'x_58872_needit' is already associated with another repository configuration</key>
+        <language>en</language>
+        <message>Application 'x_58872_needit' is already associated with another repository configuration</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-22 04:39:12</sys_created_on>
+        <sys_id>c202517a2f8e70104058265df699b649</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Application 'x_58872_needit' is already associated with another repository configuration</sys_name>
+        <sys_package display_value="NeedIt - New york release" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt - New york release">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_message_c202517a2f8e70104058265df699b649</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-22 04:39:12</sys_updated_on>
+    </sys_ui_message>
+</record_update>
