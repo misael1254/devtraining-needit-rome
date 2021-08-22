@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message">
+    <sys_ui_message action="DELETE">
+        <application/>
+        <code/>
+        <commented_message/>
+        <key>This will delete the application '{0}'.</key>
+        <language>en</language>
+        <message>This will delete the application '{0}'.</message>
+        <sys_class_name>sys_ui_message</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-22 04:54:23</sys_created_on>
+        <sys_id>e485ddfe2f8e70104058265df699b625</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>This will delete the application '{0}'.</sys_name>
+        <sys_package display_value="NeedIt - New york release" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt - New york release">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_message_e485ddfe2f8e70104058265df699b625</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-22 04:54:23</sys_updated_on>
+    </sys_ui_message>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt - New york release">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>0cbd621adb7cebc052e3f70fbf9619fe</instance_id>
+        <instance_name>dev71376</instance_name>
+        <name>sys_ui_message_e485ddfe2f8e70104058265df699b625</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_message"><sys_ui_message action="INSERT_OR_UPDATE"><application/><code/><commented_message/><key>This will delete the application '{0}'.</key><language>en</language><message>This will delete the application '{0}'.</message><sys_class_name>sys_ui_message</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-08-22 04:54:23</sys_created_on><sys_id>e485ddfe2f8e70104058265df699b625</sys_id><sys_mod_count>0</sys_mod_count><sys_name>This will delete the application '{0}'.</sys_name><sys_package display_value="NeedIt - New york release" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt - New york release">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_message_e485ddfe2f8e70104058265df699b625</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-08-22 04:54:23</sys_updated_on></sys_ui_message></record_update>]]></payload>
+        <payload_hash>423691312</payload_hash>
+        <record_name>This will delete the application '{0}'.</record_name>
+        <reverted_from/>
+        <source>1e6de6222f0230104058265df699b621</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2021-08-21 16:39:57</sys_created_on>
+        <sys_id>dca51d322fce70104058265df699b68c</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>17b69954b480000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Message</type>
+        <update_guid>9ca51d322ace70108b9eaa6ee41e668c</update_guid>
+        <update_guid_history>9ca51d322ace70108b9eaa6ee41e668c:423691312</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-22 04:54:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_message">sys_ui_message</sys_db_object>
+        <sys_id>317d3ebff6e84d4a8aba037c9d4af601</sys_id>
+        <sys_metadata>e485ddfe2f8e70104058265df699b625</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>This will delete the application '{0}'.</sys_name>
+        <sys_package display_value="NeedIt - New york release" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt - New york release">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete/>
+        <sys_update_name>sys_ui_message_e485ddfe2f8e70104058265df699b625</sys_update_name>
+        <sys_update_version display_value="sys_ui_message_e485ddfe2f8e70104058265df699b625">dca51d322fce70104058265df699b68c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-22 04:54:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
